@@ -98,7 +98,6 @@ flex-shrink: 1;
 text-align:center;
   align-items:center;
   padding-bottom:4rem;
-
 }
 
 h1 {
@@ -268,4 +267,12 @@ margin-bottom:7rem;
   font-size:30px;
 }
   
+}
+
+@media (orientation: landscape) {
+
+.main-page {
+height: 100%;
+}
+
 }
